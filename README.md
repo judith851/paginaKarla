@@ -1,4 +1,3 @@
-# paginaKarla
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,7 +6,7 @@
 <body bgcolor="#F49495">
 <h1>Ochoa Roríguez Karla Judith</h1>
 <p> Matricula: 201917736</p>
-<img src ="rosa.jpg" style="width:700px;height:400px;"></img>
+<img src ="rosa.jpg" style="width:700px;height:400px;">
 <h2> :D</h2>
 <a href="Practica 2_Ochoa Rodríguez Karla Judith 1601.pdf">Descargue el archivo PDF</a>
 </body>
